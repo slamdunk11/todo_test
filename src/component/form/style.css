@@ -1,0 +1,25 @@
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eeeeee;
+  border-radius: 8px;
+  padding: 30px;
+}
+.form-box {
+  display: flex;
+}
+.form-title {
+  font-size: 15px;
+  font-weight: 600;
+  margin-right: 15px;
+}
+
+.input-style {
+  border: none;
+  outline: none;
+  margin-right: 15px;
+}
+
+.button-style {
+  border: none;
+}

@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #EEEEEE;
+    padding: 10px 20px;
+}
